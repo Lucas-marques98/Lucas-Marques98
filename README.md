@@ -99,9 +99,6 @@
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Lucas-marques98/count.svg" /></p>
 
-
-[snake gif](https://github.com/Lucas-marques98/Lucas-marques98/blob/output/github-contribution-grid-snake.svg)
-
                                                                                                            
 <a href="http://www.github.com/Lucas-marques98"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lucas-marques98&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
