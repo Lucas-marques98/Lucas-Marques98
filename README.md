@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima&size=30&duration=5003&color=F7641A&background=77FFFF00&center=falso&vCenter=falso&lines=Hi!+Welcome+To+My+Profile+%F0%9F%A4%99)](https://git.io/typing-svg)
 
-[![Typing SVG](http://i.picasion.com/gl/92/g1kC.gif)](https://github.com/Lucas-marques98/) 
+[![Typing SVG](http://i.picasion.com/gl/92/g1kC.gif)](https://github.com/Lucas-marques98/)
 
 <p>
    <img align="left" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Lucas-marques98?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
